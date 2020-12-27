@@ -13,7 +13,7 @@ Genshin Impact Helper | [genshin-impact-helper](https://github.com/y1ndan/genshi
 网易云音乐自动签到 + 刷歌 | [wyy-action](https://github.com/t00t00-crypto/wyy-action) | [t00t00-crypto](https://github.com/t00t00-crypto) | 网易云音乐自动登录签到 + 刷歌 310 首 | `163` `网易云音乐` `签到` `刷歌`
 Cloud189Checkin | [Cloud189Checkin-Actions](https://github.com/peng4740/Cloud189Checkin-Actions) | [peng4740](https://github.com/peng4740) | 天翼云盘每日签到一次，抽奖 2 次 | `189` `天翼云盘` `签到` `抽奖`
 tieba | [tieba](https://github.com/ghosx/tieba) | [ghosx](https://github.com/ghosx) | 百度贴吧每日自动签到 | `百度贴吧` `签到`
-Tieba-Sign-Actions | [Tieba-Sign-Actions](https://github.com/libsgh/Tieba-Sign-Actions) | 贴吧签到、知道签到、文库签到、名人堂助攻、云灌水、一日三次签到、特殊吧补签 | `百度贴吧` `签到` `百度知道` `百度文库` `名人堂`
+Tieba-Sign-Actions | [Tieba-Sign-Actions](https://github.com/libsgh/Tieba-Sign-Actions) | [libsgh](https://github.com/libsgh) | 贴吧签到、知道签到、文库签到、名人堂助攻、云灌水、一日三次签到、特殊吧补签 | `百度贴吧` `签到` `百度知道` `百度文库` `名人堂`
 FF14Checkin | [CheckinBox/FF14Checkin](https://github.com/mengshouer/CheckinBox/tree/master/FF14Checkin) | [mengshouer](https://github.com/mengshouer) | 最终幻想 14 积分商城签到 | `最终幻想` `签到`
 smzdmCheckin | [CheckinBox/smzdmCheckin](https://github.com/mengshouer/CheckinBox/tree/master/smzdmCheckin) | [mengshouer](https://github.com/mengshouer) | 什么值得买网页每日签到 | `什么值得买` `签到`
 Checkin52pj | [CheckinBox/Checkin52pj](https://github.com/mengshouer/CheckinBox/tree/master/Checkin52pj) | [mengshouer](https://github.com/mengshouer) | 52pojie 每日签到 | `吾爱破解` `52pojie` `签到`
