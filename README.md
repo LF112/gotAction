@@ -12,6 +12,7 @@ Genshin Impact Helper | [genshin-impact-helper](https://github.com/y1ndan/genshi
 各类签到大杂烩 | [My-Actions](https://github.com/BlueskyClouds/My-Actions) | [BlueskyClouds](https://github.com/BlueskyClouds) | 爱奇艺会员，腾讯视频会员，哔哩哔哩漫画，中国电信，V2ex, 哔咔漫画，百度贴吧自动签到 | `爱奇艺` `腾讯视频` `哔哩哔哩漫画` `中国电信` `V2ex` `哔咔漫画` `百度贴吧`
 V2ex-Auto-Sign | [V2ex-Auto-Sign](https://github.com/Wenmoux/V2ex-Auto-Sign) | [Wenmoux](https://github.com/Wenmoux) | v2ex 每日自动签到，推送签到结果 | `V2ex` `签到`
 网易云音乐自动签到 + 刷歌 | [wyy-action](https://github.com/t00t00-crypto/wyy-action) | [t00t00-crypto](https://github.com/t00t00-crypto) | 网易云音乐自动登录签到 + 刷歌 310 首 | `163` `网易云音乐` `签到` `刷歌`
+网易云音乐刷歌升级 | [CloudMusic-LevelUp](https://github.com/Secriy/CloudMusic-LevelUp) | [Secriy](https://github.com/Secriy) | 网易云音乐签到刷听歌量 | `网易云音乐` `签到` `刷歌`
 哔哩哔哩直播自动签到 | [bilibili-action](https://github.com/t00t00-crypto/bilibili-action) | [t00t00-crypto](https://github.com/t00t00-crypto) | 哔哩哔哩直播自动签到 | `哔哩哔哩直播` `签到`
 Cloud189Checkin | [Cloud189Checkin-Actions](https://github.com/peng4740/Cloud189Checkin-Actions) | [peng4740](https://github.com/peng4740) | 天翼云盘每日签到一次，抽奖 2 次 | `189` `天翼云盘` `签到` `抽奖`
 贴吧签到助手 | [TiebaSignIn](https://github.com/srcrs/TiebaSignIn) | [srcrs](https://github.com/srcrs) | 百度贴吧自动签到脚本，每日自动签到，获得 8 点经验。 | `百度贴吧` `签到`
