@@ -9,6 +9,7 @@
 名字 NAME | 仓库 REPOSITORY | 开发者 DEV | 描述 DESCRIPTION | 标签 TAGS
 --|:--:|:--:|:--:|:--:
 Genshin Impact Helper | [genshin-impact-helper](https://github.com/y1ndan/genshin-impact-helper) | [y1ndan](https://github.com/y1ndan) | 米游社原神自动每日签到 | `原神` `签到`
+网易云游戏自动签到 | [wyycg-autocheckin](https://github.com/GamerNoTitle/wyycg-autocheckin) | [GamerNoTitle](https://github.com/GamerNoTitle) | 网易云游戏自动签到，天天白嫖网易云游戏时长和云电脑 | `网易云游戏` `签到`
 各类签到大杂烩 | [My-Actions](https://github.com/BlueskyClouds/My-Actions) | [BlueskyClouds](https://github.com/BlueskyClouds) | 爱奇艺会员，腾讯视频会员，哔哩哔哩漫画，中国电信，V2ex, 哔咔漫画，百度贴吧自动签到 | `爱奇艺` `腾讯视频` `哔哩哔哩漫画` `中国电信` `V2ex` `哔咔漫画` `百度贴吧`
 V2ex-Auto-Sign | [V2ex-Auto-Sign](https://github.com/Wenmoux/V2ex-Auto-Sign) | [Wenmoux](https://github.com/Wenmoux) | v2ex 每日自动签到，推送签到结果 | `V2ex` `签到`
 网易云音乐自动签到 + 刷歌 | [wyy-action](https://github.com/t00t00-crypto/wyy-action) | [t00t00-crypto](https://github.com/t00t00-crypto) | 网易云音乐自动登录签到 + 刷歌 310 首 | `163` `网易云音乐` `签到` `刷歌`
