@@ -37,3 +37,4 @@ Actions-OpenWrt | [Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt) |
 NanoPi-R2S | [NanoPi-R2S](https://github.com/soffchen/NanoPi-R2S) | [soffchen](https://github.com/soffchen) | 在线编译内置 OpenClash 的 NanoPi-R2S 固件 | `OpenClash` `NanoPi-R2S` `编译`
 HelloActions-Qt | [HelloActions-Qt](https://github.com/jaredtao/HelloActions-Qt) | [jaredtao](https://github.com/jaredtao) | Qt 项目，使用 CI 持续集成 | `Qt` `持续集成`
 Tencent CloudBase Github Action | [cloudbase-action](https://github.com/TencentCloudBase/cloudbase-action) | [TencentCloudBase](https://github.com/TencentCloudBase) | 将 Github 项目自动部署到云开发环境 | `Tencent Cloud` `云开发`
+SpigotBuildAction | [SpigotBuildAction](https://github.com/nitu2003/SpigotBuildAction) | [nitu2003](https://github.com/nitu2003) | 借用 Github Action 的算力来构建最新的 Spigot 端 | `Spigot` `持续集成`
