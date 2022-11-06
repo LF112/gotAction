@@ -38,3 +38,4 @@ NanoPi-R2S | [NanoPi-R2S](https://github.com/soffchen/NanoPi-R2S) | [soffchen](h
 HelloActions-Qt | [HelloActions-Qt](https://github.com/jaredtao/HelloActions-Qt) | [jaredtao](https://github.com/jaredtao) | Qt 项目，使用 CI 持续集成 | `Qt` `持续集成`
 Tencent CloudBase Github Action | [cloudbase-action](https://github.com/TencentCloudBase/cloudbase-action) | [TencentCloudBase](https://github.com/TencentCloudBase) | 将 Github 项目自动部署到云开发环境 | `Tencent Cloud` `云开发`
 SpigotBuildAction | [SpigotBuildAction](https://github.com/nitu2003/SpigotBuildAction) | [nitu2003](https://github.com/nitu2003) | 借用 Github Action 的算力来构建最新的 Spigot 端 | `Spigot` `持续集成`
+Auto_CheckIn | [Auto_CheckIn](https://github.com/yaoysyao/Auto_CheckIn) | [yaoysyao](https://github.com/yaoysyao) | 各大网站自动签到脚本，基于github actions | `签到` `GLaDOS` `天翼云盘` `bilibili直播` `科研通`
