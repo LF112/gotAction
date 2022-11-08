@@ -39,3 +39,6 @@ HelloActions-Qt | [HelloActions-Qt](https://github.com/jaredtao/HelloActions-Qt)
 Tencent CloudBase Github Action | [cloudbase-action](https://github.com/TencentCloudBase/cloudbase-action) | [TencentCloudBase](https://github.com/TencentCloudBase) | 将 Github 项目自动部署到云开发环境 | `Tencent Cloud` `云开发`
 SpigotBuildAction | [SpigotBuildAction](https://github.com/nitu2003/SpigotBuildAction) | [nitu2003](https://github.com/nitu2003) | 借用 Github Action 的算力来构建最新的 Spigot 端 | `Spigot` `持续集成`
 Auto_CheckIn | [Auto_CheckIn](https://github.com/yaoysyao/Auto_CheckIn) | [yaoysyao](https://github.com/yaoysyao) | 各大网站自动签到脚本，基于github actions | `签到` `GLaDOS` `天翼云盘` `bilibili直播` `科研通`
+Actions-OpenWrt | [Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt) | [P3TERX](https://github.com/P3TERX) | 使用 GitHub Actions 云编译 OpenWrt | `OpenWrt` `编译`
+BiliBiliTool | [BiliBiliTool](https://github.com/pwj0528/BiliBiliTool) | [pwj0528](https://github.com/pwj0528) | 在线每日自动登录、观看、分享、投币视频，获取哔哩哔哩每日任务的满额经验 | `哔哩哔哩` `签到` `自动任务`
+weather-action | [weather-action](https://github.com/fatedeity/weather-action) | [fatedeity](https://github.com/fatedeity) | 通过 Github Action 实现发送天气预报的定时任务 | `天气预报` `自动任务`
