@@ -42,3 +42,4 @@ Auto_CheckIn | [Auto_CheckIn](https://github.com/yaoysyao/Auto_CheckIn) | [yaoys
 Actions-OpenWrt | [Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt) | [P3TERX](https://github.com/P3TERX) | 使用 GitHub Actions 云编译 OpenWrt | `OpenWrt` `编译`
 BiliBiliTool | [BiliBiliTool](https://github.com/pwj0528/BiliBiliTool) | [pwj0528](https://github.com/pwj0528) | 在线每日自动登录、观看、分享、投币视频，获取哔哩哔哩每日任务的满额经验 | `哔哩哔哩` `签到` `自动任务`
 weather-action | [weather-action](https://github.com/fatedeity/weather-action) | [fatedeity](https://github.com/fatedeity) | 通过 Github Action 实现发送天气预报的定时任务 | `天气预报` `自动任务`
+Github-Automatic-check-in | [Github-Automatic-check-in](https://github.com/TravelTibet/Github-Automatic-check-in). | [TravelTibet](https://github.com/TravelTibet) |通过GithubAction打卡Girhub | `自动任务` `签到`
