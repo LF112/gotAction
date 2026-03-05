@@ -1,0 +1,23 @@
+name: 检查 GitHub 仓库链接有效性
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'README.md'
+  pull_request:
+    paths:
+      - 'README.md'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - name: Setup Node.js environment
+        uses: actions/setup-node@v6
+        with:
+          node-version: 24
+      - name: Run Script
+        run: |
+          node check-github-repo.js
